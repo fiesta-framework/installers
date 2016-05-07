@@ -54,6 +54,7 @@ class Installer extends LibraryInstaller
         'oxid'         => 'OxidInstaller',
         'phpbb'        => 'PhpBBInstaller',
         'pimcore'      => 'PimcoreInstaller',
+        'pikia'        => 'PikiaInstaller',
         'piwik'        => 'PiwikInstaller',
         'ppi'          => 'PPIInstaller',
         'puppet'       => 'PuppetInstaller',
