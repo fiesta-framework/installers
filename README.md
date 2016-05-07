@@ -70,6 +70,7 @@ is not needed to install packages with these frameworks:
 | OXID         | `oxid-module`<br>`oxid-theme`<br>`oxid-out`
 | MODULEWork   | `modulework-module`
 | Moodle       | `moodle-*` (Please [check source](https://raw.githubusercontent.com/composer/installers/master/src/Composer/Installers/MoodleInstaller.php) for all supported types)
+| Pikia        | `pikia-plugin`
 | Piwik        | `piwik-plugin`
 | phpBB        | `phpbb-extension`<br>`phpbb-style`<br>`phpbb-language`
 | Pimcore      | `pimcore-plugin`
